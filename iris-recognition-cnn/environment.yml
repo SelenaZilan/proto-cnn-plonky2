@@ -1,0 +1,26 @@
+name: pytorch
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - scikit-image 
+  - opencv
+  - pillow
+  - imgaug
+  - timm=0.3.2
+  - jupyter
+  - matplotlib
+  - tqdm
+  - pyyaml
+
+  - pip:
+    - --extra-index-url https://download.pytorch.org/whl/cu124
+    - torch
+    - torchvision
+    - yacs==0.1.6
