@@ -107,7 +107,7 @@ Key dependencies: `torch`, `torchvision`, `numpy`, `Pillow`, `scikit-learn`.
 
 The preprocessed CASIA-Iris-Thousand images are not included in the repository. Download from:
 
-**[Google Drive: casia-iris-preprocessed](https://drive.google.com/drive/folders/1US7deawGYcoEh0B92-IZOxUllj5Dp8By?usp=sharing)**
+**[Google Drive: casia-iris-preprocessed](https://drive.google.com/file/d/172GZgrAzNrA146BjFpF1vXtAH-zWymlA/view?usp=sharing)**
 
 The preprocessed dataset is provided by [AndrejHafner/iris-recognition-cnn](https://github.com/AndrejHafner/iris-recognition-cnn).
 
